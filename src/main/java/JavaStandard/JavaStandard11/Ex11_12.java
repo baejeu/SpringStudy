@@ -4,7 +4,7 @@ package JavaStandard.JavaStandard11;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Ex_12 {
+public class Ex11_12 {
     public static void main(String[] args) {
         Set setA = new HashSet();
         Set setB = new HashSet();

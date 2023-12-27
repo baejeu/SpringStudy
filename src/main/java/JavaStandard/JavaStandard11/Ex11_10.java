@@ -3,7 +3,7 @@ package JavaStandard.JavaStandard11;
 import java.util.*;
 
 // 자바의 정석 11-34~36 HashSet
-public class Ex_10 {
+public class Ex11_10 {
     public static void main(String[] args) {
         Set set = new HashSet();
 
