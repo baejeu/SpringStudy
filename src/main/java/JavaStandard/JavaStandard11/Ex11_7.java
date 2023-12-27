@@ -17,6 +17,7 @@ public class Ex11_7 {
 
         Arrays.sort(strArr, new Descending()); // 역순
         System.out.println(Arrays.toString(strArr)); // [tiger, lion, cat, Dog]
+
     }
 }
 
