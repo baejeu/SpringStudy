@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 // 자바의 정석 Ch11-42~45 TreeSet(2)
-public class Ex_13 {
+public class Ex11_13 {
     public static void main(String[] args) {
 
         Set set = new TreeSet(); // 범위 검색 , 정렬에 유리하다.

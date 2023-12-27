@@ -3,7 +3,7 @@ package JavaStandard.JavaStandard11;
 import java.util.HashSet;
 import java.util.Objects;
 
-public class Ex_11 {
+public class Ex11_11 {
     public static void main(String[] args) {
         HashSet set = new HashSet();
 
